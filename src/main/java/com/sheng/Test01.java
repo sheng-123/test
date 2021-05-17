@@ -13,5 +13,6 @@ public class Test01 {
         System.out.println("版本3");
         System.out.println("版本4");
         System.out.println("版本5");
+        System.out.println("版本5");
     }
 }
