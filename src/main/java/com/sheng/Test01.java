@@ -11,6 +11,5 @@ public class Test01 {
     @Test
     public  void test(){
         System.out.println("这是主干");
-        System.out.println("这是分支");
     }
 }
