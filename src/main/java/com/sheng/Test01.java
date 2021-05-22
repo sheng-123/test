@@ -10,9 +10,6 @@ import org.junit.Test;
 public class Test01 {
     @Test
     public  void test(){
-        System.out.println("版本3");
-        System.out.println("版本4");
-        System.out.println("版本5");
-        System.out.println("版本5");
+        System.out.println("这是分支");
     }
 }
